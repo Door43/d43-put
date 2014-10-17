@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[put:home|Door43 (put)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-put|d43-put repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-put/archive/master.zip|d43-put.zip]]
+
+**Recent Changes**
+{{changes>ns = put}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/put|Ethnologue data]]
+
